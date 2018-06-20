@@ -1,7 +1,8 @@
 Package.describe({
   summary: 'Blaze configuration templates for Intranet 42 OAuth.',
-  version: '1.0.0',
-  name: 'chap:intra42-config-ui'
+  version: '1.0.1',
+  name: 'chap:intra42-config-ui',
+  git: 'https://github.com/marcchapeau/meteor-intra42-config-ui'
 })
 
 Package.onUse(function (api) {
